@@ -1,4 +1,4 @@
-package com.playground.kotlin
+package main.kotlin
 
 import java.security.Provider
 import java.security.Security
